@@ -1,0 +1,26 @@
+2025-06-28T20:08:05,577 Using pip 25.1.1 from C:\Users\HP\Desktop\langchain models\venv\Lib\site-packages\pip (python 3.13)
+2025-06-28T20:08:05,580 Non-user install because user site-packages disabled
+2025-06-28T20:08:06,117 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-build-tracker-wgz183_m
+2025-06-28T20:08:06,117 Initialized build tracking at C:\Users\HP\AppData\Local\Temp\pip-build-tracker-wgz183_m
+2025-06-28T20:08:06,118 Created build tracker: C:\Users\HP\AppData\Local\Temp\pip-build-tracker-wgz183_m
+2025-06-28T20:08:06,118 Entered build tracker: C:\Users\HP\AppData\Local\Temp\pip-build-tracker-wgz183_m
+2025-06-28T20:08:06,119 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-install-zqfdik8_
+2025-06-28T20:08:06,121 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-ephem-wheel-cache-pdt5t6e3
+2025-06-28T20:08:06,161 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-unpack-_os6e_qg
+2025-06-28T20:08:06,207 Remote version of pip: 25.1.1
+2025-06-28T20:08:06,207 Local version of pip:  25.1.1
+2025-06-28T20:08:06,211 Was pip installed by pip? True
+2025-06-28T20:08:06,212 Removed build tracker: 'C:\\Users\\HP\\AppData\\Local\\Temp\\pip-build-tracker-wgz183_m'
+2025-06-28T20:08:15,967 Using pip 25.1.1 from C:\Users\HP\Desktop\langchain models\venv\Lib\site-packages\pip (python 3.13)
+2025-06-28T20:08:15,969 Non-user install because user site-packages disabled
+2025-06-28T20:08:16,433 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-build-tracker-rk30m2c4
+2025-06-28T20:08:16,434 Initialized build tracking at C:\Users\HP\AppData\Local\Temp\pip-build-tracker-rk30m2c4
+2025-06-28T20:08:16,434 Created build tracker: C:\Users\HP\AppData\Local\Temp\pip-build-tracker-rk30m2c4
+2025-06-28T20:08:16,434 Entered build tracker: C:\Users\HP\AppData\Local\Temp\pip-build-tracker-rk30m2c4
+2025-06-28T20:08:16,434 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-install-9j4f8ejg
+2025-06-28T20:08:16,435 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-ephem-wheel-cache-x9nvv93t
+2025-06-28T20:08:16,464 Created temporary directory: C:\Users\HP\AppData\Local\Temp\pip-unpack-_ovsvjej
+2025-06-28T20:08:16,484 Remote version of pip: 25.1.1
+2025-06-28T20:08:16,484 Local version of pip:  25.1.1
+2025-06-28T20:08:16,490 Was pip installed by pip? True
+2025-06-28T20:08:16,490 Removed build tracker: 'C:\\Users\\HP\\AppData\\Local\\Temp\\pip-build-tracker-rk30m2c4'

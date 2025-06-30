@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
+numpy
+scikit-learn
+faiss-cpu
+pypdf
+sentence-transformers
+streamlit
+beautifulsoup4
+nltk
