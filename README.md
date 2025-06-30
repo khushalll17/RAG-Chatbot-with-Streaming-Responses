@@ -4,13 +4,13 @@ This project is an end-to-end Retrieval-Augmented Generation (RAG) chatbot built
 
 # Project Architecture
 
-/data         - Raw PDF documents
+1. /data         - Raw PDF documents
 
-/chunks       - Processed and chunked text
+2. /chunks       - Processed and chunked text
 
-/vectordb     - Vector DB built using FAISS
+3. /vectordb     - Vector DB built using FAISS
 
-/src          - Core backend modules
+4. /src          - Core backend modules
 
   cleaning.py       - Cleans and preprocesses PDF text
   
@@ -24,11 +24,11 @@ This project is an end-to-end Retrieval-Augmented Generation (RAG) chatbot built
   
   stream_handler.py - Custom Streamlit-compatible stream output
 
-app.py        - Streamlit UI with streaming support
+5. app.py        - Streamlit UI with streaming support
 
-notebooks/    - Jupyter testing & dev notebooks
+6. notebooks/    - Jupyter testing & dev notebooks
 
-requirements.txt - Python dependencies
+7. requirements.txt - Python dependencies
 
 # Preprocessing & Pipeline Setup
 
